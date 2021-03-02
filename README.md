@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Stephen and I am a Junior at SFSU majoring in CS. 
+
+I'm currently working on https://github.com/ChrisLouie10/Budget-Discord. 
+
 <!--
 **Switch24-7/Switch24-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
